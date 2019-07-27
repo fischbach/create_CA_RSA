@@ -1,5 +1,5 @@
 name: create_ca
-label: 2A. Generate RSA CA on Firewall
+label: 2. Generate CA on Firewall - RSA
 
 description: |
   Create CA on Firewall. RSA4096 / SHA512
